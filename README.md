@@ -1,3 +1,3 @@
-# COMP6841-HMACS-LAZY
+# COMP6841-HMACS
 
-I was a bit lazy C:
+Wrote a simple script to complete the task.
